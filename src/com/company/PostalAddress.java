@@ -3,6 +3,10 @@ package com.company;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
+/**
+ * Created by evanpthompson on 11/1/2016.
+ */
+
 @XmlRootElement(name = "postalAddress")
 public class PostalAddress {
 
